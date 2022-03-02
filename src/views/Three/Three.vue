@@ -28,7 +28,7 @@ import {
 export default {
   setup() {
     const data = reactive({
-      userName: "张三",
+      userName: "张三三",
       age: 18,
       obj: {
         userName: "李四",
