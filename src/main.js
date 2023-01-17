@@ -4,6 +4,6 @@ import router from "./router";
 import store from "./store";
 
 
-console.log(111)
+console.log(111222)
 
 createApp(App).use(store).use(router).mount("#app");
